@@ -1,0 +1,2 @@
+# Employee-Analytics-and-Insights-Exploring-HR-Metrics-and-Trends
+This repository delves into a thorough analysis of Splendor Investments workforce data, offering valuable insights into various aspects of employee dynamics. From understanding the distribution of employees across different departments, genders and ethnicities to exploring compensation trends, tenure patterns and impact of age on bonus percentages.
