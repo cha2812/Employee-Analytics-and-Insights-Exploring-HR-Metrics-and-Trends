@@ -158,6 +158,12 @@ Here are some KPIs that could help us understand and solve some business problem
 ## Visualization
 To better understand our solutions and give better credence to our findings, we made some visualizations using Microsoft Power BI
 
+![](vis1.png)
+
+![](vis2.png)
+
+![](vis3.png)
+
 ## Recommendation
 Based on our data-driven insights, I make the following recommendations to Splendor investment company aiming to enhance its workforce management and decision-making:
 
