@@ -156,7 +156,7 @@ Here are some KPIs that could help us understand and solve some business problem
 10. Long-Term Employee Retention: Indicates the number of employees who have been with the company for more than 10 years.
 
 ## Visualization
-To better understand our solutions and give better credence to our findings, we made some visualizations using Microsoft Power BI
+To better understand our solutions and give better credence to our findings, we made some visualizations using Microsoft Power BI. Also, attached to this project, is the Power BI file as well as SQL codes.
 
 ![](vis1.png)
 
