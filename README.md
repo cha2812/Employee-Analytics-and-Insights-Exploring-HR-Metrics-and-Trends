@@ -26,7 +26,7 @@ I was tasked with finding answers to the following problems. <br>
 
 ## Project Objective
 Analyzing employee data at Splendor Investments where I will work with a comprehensive dataset containing detailed information about employees within the company. The task is to leverage SQL to explore and analyze the dataset, extracting valuable insights to aid in understanding the company's workforce better. <br>
-This project takes it a step further by visualizing key performance indicators (KPIs) through a dynamic Power BI dashboard.
+This project takes it a step further by visualizing key performance indicators (KPIs) through a dynamic Power BI dashboard. <br>
 **Dataset:**
 I was provided with a dataset containing the following key attributes: <br>
 - Employee ID
