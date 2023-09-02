@@ -114,7 +114,7 @@ This query calculates the average salary for each job title. It helps compare th
 
 11. Compare the average bonus percentage between different departments.
 This query calculates the average bonus percentage for each department. It offers insights into the bonus distribution across different departments. <br>
-The Accounting department has the highest average bonus percentage at 11.60% while the IT department has the least average bonus percentage at 4.25%
+The Accounting department has the highest average bonus percentage at 11.60% while the IT department has the lowest average bonus percentage at 4.25%
 
 ![](pic13.png)
 
@@ -132,14 +132,47 @@ This query identifies employees who have been with the company for more than 10 
 
 14. Calculate the average bonus percentage for employees under the age of 30.
 This query calculates the average bonus percentage for employees under the age of 30. It offers insights into the bonus distribution for younger employees. <br>
-We have 5 employees below the age of 30. The highest average bonus percentage is 11.74% for an employee aged 28 years and the least average bonus percentage is 5.79% for an employee aged 27 years.
+We have 5 employees below the age of 30. The highest average bonus percentage is 11.74% for an employee aged 28 years and the lowest average bonus percentage is 5.79% for an employee aged 27 years.
 
 ![](pic16.png)
 
 15. Compare the distribution of bonus percentages across different ethnicities.
 This query calculates the median bonus percentage for each ethnicity group. It provides insights into how bonus percentages vary across different ethnicities. <br>
 The employees who identify as Asians had the highest average bonus percentages at 8.28% and accounted for 432 people at the company. <br>
-The employees who identify as Caucasians had the least average bonus percentages at 7.31% and accounted for 222 people at the company.
+The employees who identify as Caucasians had the lowest average bonus percentages at 7.31% and accounted for 222 people at the company.
 
 ![](pic17.png)
+
+Here are some KPIs that could help us understand and solve some business problems.
+1. Average Age in Departments: This shows the average age of employees in the various departments.
+2. Diversity Metrics: Measures the distribution of employees across different genders and ethnicities.
+3. Churn Rate and Average Tenure: Identifies the number of employees who left the company and calculate their average tenure.
+4. Bonus Percentage Distribution by Ethnicity: Compares the distribution of bonus percentages across different ethnicities.
+5. Early Attrition Rate: This shows the percentage of employees who exited the company within their first year of employment.
+6. Department and Bonus Percentage: Determines which department has the highest average bonus percentage.
+7. Departmental Headcount: Measures the total number of employees in each department.
+8. Salary Trends Over Time: This shows how the average salary has changed year by year to identify trends.
+9. Total Salary Expenditure by Business Unit: This shows the total how much money in terms of salary the company spends for each business unit.
+10. Long-Term Employee Retention: Indicates the number of employees who have been with the company for more than 10 years.
+
+## Visualization
+To better understand our solutions and give better credence to our findings, we made some visualizations using Microsoft Power BI
+
+## Recommendation
+Based on our data-driven insights, I make the following recommendations to Splendor investment company aiming to enhance its workforce management and decision-making:
+
+Optimize Compensation Strategies: Utilize insights on employee salaries, bonus percentages, and compensation trends to ensure fair and competitive compensation packages, which will lead to improved employee satisfaction and retention. Link salary adjustments with job performance, responsibilities, and market benchmarks. Recognize and reward high-performing employees with competitive compensation.
+
+Promotion and Department Allocation: Leverage employee performance data to make informed decisions about promotions and departmental reallocations, ensuring that the right talent is put in the right role.
+
+Diversity and Inclusion: Address disparities in gender and ethnicity distributions by implementing targeted diversity and inclusion initiatives to foster a more representative workforce.
+
+Talent Retention: Identify employees with short tenures or those leaving within their first year, and design onboarding and engagement strategies to improve retention rates. Provide mentorship, professional development, and growth opportunities to young employees to increase their engagement and commitment.
+
+Business Unit Efficiency: Understand the distribution of salary expenditures across business units to allocate resources effectively and optimize workforce planning.
+
+Strategic Workforce Planning: Leverage insights on average age and tenure to develop succession plans and ensure a well-prepared future workforce. Establish mentorship programs to transfer knowledge from long-term employees to newer hires. Conduct regular engagement surveys to identify areas for improvement.
+
+## Conclusion
+Organizations can significantly improve their workforce management strategies and overall success by integrating data-driven HR analytics. Employers can use insights obtained from this project to make well-informed decisions about employee compensation, promotions, and diversity initiatives. An organization with a data-driven approach is better prepared to deal with workforce challenges, improve employee engagement, and foster a culture of continuous improvement. For a business to remain competitive and grow sustainably, data-driven HR analytics are not only a strategic decision but a necessity.
 
