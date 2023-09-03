@@ -120,7 +120,7 @@ The Accounting department has the highest average bonus percentage at 11.60% whi
 
 12. How many employees have left the company, and what is their average tenure?
 This query counts the number of employees who left the company and calculates their average tenure. It provides insights into employee turnover and tenure. <br>
-103 employees have left the company. 
+103 employees have left the company and their average tenure at the company was 5 years, 5 months and 13 days.
 
 ![](pic14.png)
 
