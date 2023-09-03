@@ -165,7 +165,7 @@ To better understand our solutions and give better credence to our findings, we 
 ![](vis3.png)
 
 ## Recommendation
-Based on our data-driven insights, I make the following recommendations to Splendor investment company aiming to enhance its workforce management and decision-making:
+Based on our data-driven insights, the following recommendations were made to Splendor investment company aiming to enhance its workforce management and decision-making:
 
 Optimize Compensation Strategies: Utilize insights on employee salaries, bonus percentages, and compensation trends to ensure fair and competitive compensation packages, which will lead to improved employee satisfaction and retention. Link salary adjustments with job performance, responsibilities, and market benchmarks. Recognize and reward high-performing employees with competitive compensation.
 
